@@ -1,0 +1,3 @@
+pywin32~=311
+pyinstaller
+py2exe
